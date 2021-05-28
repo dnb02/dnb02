@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @dnb02
-- 🌱 I’m currently learning rust. 
-- 💞️ I’m looking to collaborate on python, c, c++ 
+- 🌱 I’m currently learning rust
+- 💞️ I’m looking to collaborate on python, c++ 
 - 📫 You can reach me at dnb.ranjikaa@gmail.com
 
 <!---
