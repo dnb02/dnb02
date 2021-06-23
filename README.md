@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @dnb02
+- 👋 Hi, I’m Deva Narayana Babu
 - 🌱 I’m currently learning web scraping and api usage
 - 💞️ I’m looking to collaborate on python, c++ 
 - 📫 You can reach me at dnb.ranjikaa@gmail.com
