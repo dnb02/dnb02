@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Deva Narayana Babu
-- 🌱 I’m currently learning web scraping and api usage
+- 🌱 I’m currently learning Web Scarping and REST API 
 - 💞️ I’m looking to collaborate on python, c++ 
 - 📫 You can reach me at dnb.ranjikaa@gmail.com
 
