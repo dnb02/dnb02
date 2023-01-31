@@ -12,14 +12,12 @@ Welcome to my Github page! I am Dev and I am currently finishing my Bachelor's d
 
 #### 🌱 Things I am currently working on: 
 - Finish my Bachelor's Degree in Mathematics  
-- Taking online courses on Machine Learning 
+- Learning Sentiment Analysis using Machine Learning Techniques 
 
 
 #### :muscle: Things I am challenging myself with:
-- Waking up earlier to make good use of the day
-- Coding at least 1 hours a day
-- Exercising 3 days a week
-- Improving my CV with some education apart from university
+- Practising Harmonium at least 20mins a day
+- Studying everyday consistently for 1.5 hours
 
 #### :computer: Programming languages and tools: 
 <p>
