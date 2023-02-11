@@ -6,7 +6,7 @@
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:dnb.ranjikaa@gmail.com)
 
 Welcome to my Github page! I am Dev and I am currently finishing my Bachelor's degree in Mathematics from the Sri Sathya Sai Institute of Higher Learning!  
-![counter](https://en2yvmcy89kmzwi.m.pipedream.net)
+[![counter](https://en2yvmcy89kmzwi.m.pipedream.net)]
 <img align="right" alt="img" src="https://github.com/dnb02/dnb02/blob/main/cover_image.jpg" width="50%" height="auto" />
 
 
