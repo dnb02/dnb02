@@ -10,7 +10,7 @@ Welcome to my Github page! I am Dev and I am a 4th year Maths Grad from the Sri 
 
 
 #### 🌱 Things I am currently working on: 
-- Use Finite Field theory in error decoding.
+- Use Finite Field theory in Error decoding.
 - Learning Computer Architecture and Organization. 
 
 #### :computer: Programming languages and tools: 
