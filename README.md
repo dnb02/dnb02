@@ -1,23 +1,17 @@
 ### Hi there 👋 
 ### This is Deva Narayana Babu!
 
-[![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/dnb02)
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/deva-narayana-babu/)
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:dnb.ranjikaa@gmail.com)
 
-Welcome to my Github page! I am Dev and I am currently finishing my Bachelor's degree in Mathematics from the Sri Sathya Sai Institute of Higher Learning!  
+Welcome to my Github page! I am Dev and I am a 4th year Maths Grad from the Sri Sathya Sai Institute of Higher Learning!<br />
 [![counter](https://en2yvmcy89kmzwi.m.pipedream.net)]
 <img align="right" alt="img" src="https://github.com/dnb02/dnb02/blob/main/cover_image.jpg" width="50%" height="auto" />
 
 
 #### 🌱 Things I am currently working on: 
-- Finish my Bachelor's Degree in Mathematics  
-- Learning Sentiment Analysis using Machine Learning Techniques 
-
-
-#### :muscle: Things I am challenging myself with:
-- Practising Harmonium at least 20mins a day
-- Studying everyday consistently for 1.5 hours
+- Use Finite Field theory in error decoding.
+- Learning Computer Architecture and Organization. 
 
 #### :computer: Programming languages and tools: 
 <p>
