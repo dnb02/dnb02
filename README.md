@@ -4,7 +4,7 @@
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/deva-narayana-babu/)
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:dnb.ranjikaa@gmail.com)
 
-Welcome to my Github page! I am Dev and I am a 4th year Maths Grad from the Sri Sathya Sai Institute of Higher Learning!<br />
+Welcome to my Github page! I am Dev and I am a 5th year Maths Grad from the Sri Sathya Sai Institute of Higher Learning!<br />
 [![counter](https://en2yvmcy89kmzwi.m.pipedream.net)]
 <img align="right" alt="img" src="https://github.com/dnb02/dnb02/blob/main/cover_image.jpg" width="50%" height="auto" />
 
